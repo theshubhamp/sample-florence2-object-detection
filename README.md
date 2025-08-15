@@ -7,7 +7,7 @@ This repository hosts a sample for Florence-2's Object Detection capabilities th
 - Overlay bounding boxes on top of the original image  
 
 Here's a sample of how it looks live:
-![alt text](https://github.com/user-attachments/assets/7d3c2d91-523f-4f35-827b-a85ba95136fd)
+![Demo Image with Bounding Boxes](https://github.com/user-attachments/assets/ac3991e1-ff79-427f-97c7-a18c7d8acce6)
 
 # Run on a Video File
 ```shell
